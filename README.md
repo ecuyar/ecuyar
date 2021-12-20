@@ -1,16 +1,14 @@
 ### Hi there 👋
+ 
+I'm a software developer who think that lifetime learning is real. I have 2 years of development experience. <br>
 
-<!--
-**ecuyar/ecuyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am currently working on .NET, Flutter, Android Programming to improve my web and mobile skills.
 
-Here are some ideas to get you started:
+Here is languages, frameworks that I used for far:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+⚪ C#, SQL, JS, Java, Kotlin, Dart
+⚪ .NET, DevExpress, Cordova, Spring, React, Flutter
+```
+
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/ecuyar/) or [Mail](mailto:uyar.enescan@gmail.com) to ask questions, job offerings etc.

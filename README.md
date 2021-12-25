@@ -4,7 +4,7 @@ I'm a software developer who think that lifetime learning is real. I have 2 year
 
 I'am currently working on .NET, Flutter, Android Programming to improve my web and mobile skills.
 
-Here is languages, frameworks that I used for far:
+Here is languages, frameworks that I used so far:
 
 ```
 ⚪ C#, SQL, JS, Java, Kotlin, Dart

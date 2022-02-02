@@ -11,4 +11,4 @@ Here is languages, frameworks that I used so far:
 ⚪ .NET, DevExpress, Cordova, Spring, React, Flutter
 ```
 
-Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/ecuyar/) or [Mail](mailto:uyar.enescan@gmail.com) to ask questions, job offerings etc.
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/enescanuyar) or [Mail](mailto:uyar.enescan@gmail.com) to ask questions, job offerings etc.

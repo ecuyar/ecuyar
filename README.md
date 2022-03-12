@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-I'm a software developer who think that lifetime learning is real. I have 2 years of development experience on Windows and cross-platform mobile apps, SQL topics. <br>
+I'm a software developer who think that lifetime learning is real. I have 2 years of development experience as software developer. Worked on Windows and cross-platform mobile apps, SQL topics. <br>
 
 I'am currently working on .NET, Flutter, Android Programming to improve my web and mobile skills.
 
